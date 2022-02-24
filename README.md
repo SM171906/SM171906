@@ -5,8 +5,7 @@
 
 #### I am Smiti Jr.Full Stack Developer with a background in Social Media Marketing. 
 
-- 🔭 I’m currently working on React Project 
-- 🌱 I’m currently learning Gatsby
+- 🔭 I’m currently working on Projects
 - 📚 I love reading Frictional books. 
 - 📫 How to reach me: smiti.hota@gmail.com
 - 😄 Pronouns: She/Her
