@@ -9,4 +9,5 @@
 - ⚡  Connect with me on [Linkedin](https://www.linkedin.com/in/smitimishra/)
 - My Tech Stack
 
-![javascript](https://user-images.githubusercontent.com/87405298/155610034-4e003680-bcce-4a87-9242-32ea816f923c.svg)
+
+![js-brands](https://user-images.githubusercontent.com/87405298/155610192-cb7f3efe-734d-4de1-a83f-2fdeefe3a51c.svg)
