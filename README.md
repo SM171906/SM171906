@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I am Smiti Jr.Full Stack Developer with a background in Social Media Marketing. 
+#### I am Smiti Theme Developer with a background in Social Media Marketing. 
 
 - 🔭 I’m currently working on Projects
 - 📚 I love reading Frictional books. 
