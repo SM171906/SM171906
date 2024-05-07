@@ -2,7 +2,7 @@
 
 #### I am Smiti Theme Developer with a background in Social Media Marketing. 
 
-- 🔭 I’m currently working on Projects
+- 🔭 I’m currently secure certification on AI Governance and Security
 - 📚 I love reading Frictional books. 
 - 📫 How to reach me: smiti.hota@gmail.com
 - 😄 Pronouns: She/Her
